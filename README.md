@@ -1,4 +1,4 @@
-# _VimSolution_
+# _VinSolution_
 
 #### _Version 1_
 #### _Date 02/3/2021_
@@ -6,7 +6,7 @@
 
 ## Description
 
-_VimSolution._
+_VinSolutions Coding Assessment In the programming language of your choice, write a program that parses a sentence and replaces each word with the following: first letter, number of distinct characters between first and last character, and last letter.  For example, Smooth would become S3h.  Words are separated by spaces or non-alphabetic characters and these separators should be maintained in their original form and location in the answer._
 
 ## Getting Started
 
