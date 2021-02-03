@@ -1,0 +1,36 @@
+.form-group{
+  width:400px;
+  height:600px;
+  box-shadow: 0 0 .8px rgba(0, 0, 0, 0.5);
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.form-control{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+form input{
+margin:8%;
+height:20px;
+outline: inherit;
+}
+h1{
+  text-align: center;
+}
+.message.error{
+  color:red;
+  text-align: center;
+}
+.message.success{
+  color:green;
+  text-align: center;
+}
+p{
+  text-align: center;
+}
